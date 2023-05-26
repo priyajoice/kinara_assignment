@@ -1,0 +1,12 @@
+body {
+    padding: 10px 50px 0 50px;
+}
+h2 {
+    text-align: center;
+}
+.search_form {
+    padding-top: 20px;
+}
+#student_table {
+    padding-top: 50px;
+}
